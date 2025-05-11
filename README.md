@@ -13,3 +13,8 @@ Sample model must be rotated!!!!!!!!!!! FMVSS
 
 car Ls Dyna model: https://www.ccsa.gmu.edu/models/
 tutorial for safety: https://help.altair.com/hwdesktop/hwx/topics/tutorials/hm/crash_and_safety_tutorials_r.htm
+
+
+for dummy: see folk
+
+for : Radioss example (crash..): https://openradioss.atlassian.net/wiki/spaces/OPENRADIOSS/pages/1016047/OpenRadioss+Documentation
