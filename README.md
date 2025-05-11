@@ -7,3 +7,6 @@
  - How to reach me: LinkedIn | Email: kieuanh0810@gmail.com
  - 😄 Pronouns: she/her
  - ⚡ Fun fact: I once optimized a car part design in two conflicting simulations – maximizing stiffness in one and compliance in another – and made it work!
+
+
+Sample model must be rotated!!!!!!!!!!! FMVSS
