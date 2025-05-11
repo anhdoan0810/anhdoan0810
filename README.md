@@ -10,3 +10,6 @@
 
 
 Sample model must be rotated!!!!!!!!!!! FMVSS
+
+car Ls Dyna model: https://www.ccsa.gmu.edu/models/
+tutorial for safety: https://help.altair.com/hwdesktop/hwx/topics/tutorials/hm/crash_and_safety_tutorials_r.htm
