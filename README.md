@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
  - 👋 Hi, I’m @anhdoan0810
  - 👀 I’m interested in CAE simulation, vehicle safety, crashworthiness, and design optimization – especially in the automotive sector.
  - 🌱 I’m currently building my skills in passive safety simulations (e.g., head impact, frontal crash) using LS-Dyna, ANSA, and optimization tools. 
