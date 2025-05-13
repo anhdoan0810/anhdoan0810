@@ -1,5 +1,5 @@
 
-<img src="https://github.com/anhdoan0810/anhdoan0810/blob/main/night.gif" alt="Alt Text" width="700">
+<img src="https://github.com/anhdoan0810/anhdoan0810/blob/main/night.gif" alt="Alt Text" width="800">
 
 
 
