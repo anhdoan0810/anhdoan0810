@@ -10,7 +10,7 @@
  - 💞️ I’m looking to collaborate on simulation projects focused on FEM, occupant safety, and crash analysis.
  - How to reach me: LinkedIn | Email: kieuanh0810@gmail.com
  - 😄 Pronouns: she/her
- - ⚡ Fun fact: I once optimized a car part design in two conflicting simulations – maximizing stiffness in one and compliance in another – and made it work!
+ - ⚡ Fun fact: I love dog and cat ATST :D
 
 
 Sample model must be rotated!!!!!!!!!!! FMVSS
