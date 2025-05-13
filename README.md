@@ -23,4 +23,6 @@ for dummy: see folk
 
 for : Radioss example (crash..): https://openradioss.atlassian.net/wiki/spaces/OPENRADIOSS/pages/1016047/OpenRadioss+Documentation
 
-![Snake animation](https://github.com/anhdoan0810/anhdoan0810/blob/output/github-contribution-grid-snake.svg)
+
+![snake gif](https://github.com/anhdoan0810/anhdoan0810/blob/output/github-snake.svg)
+
