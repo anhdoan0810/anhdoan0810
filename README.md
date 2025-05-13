@@ -1,5 +1,5 @@
-![Alt Text](https://github.com/anhdoan0810/anhdoan0810/blob/main/night.gif)
 
+<img src="https://github.com/anhdoan0810/anhdoan0810/blob/main/night.gif" alt="Alt Text" width="300" height="200">
 
 
 
